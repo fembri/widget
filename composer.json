@@ -1,6 +1,6 @@
 {
-  "name": "pingpong/widget",
-  "description": "Simple Widget System for Laravel Framework",
+  "name": "fembri/widget",
+  "description": "Simple Widget System for Laravel Framework by Pingpong Labs",
   "keywords": [
     "widget",
     "laravel",
